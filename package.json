@@ -1,25 +1,25 @@
 {
-  "name": "cloudcomputing-back",
+  "name": "proiectcloud-back",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-
-
-    
     "start": "node index.js"
+  },
+  "scripts": {
+    "postinstall": "ng build"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FloreaLaura/CloudComputing-Back.git"
+    "url": "git+https://github.com/FloreaLaura/ProiectCloudBack.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FloreaLaura/CloudComputing-Back/issues"
+    "url": "https://github.com/FloreaLaura/ProiectCloud-Back/issues"
   },
-  "homepage": "https://github.com/FloreaLaura/CloudComputing-Back#readme",
+  "homepage": "https://github.com/FloreaLaura/ProiectCloud-Back#readme",
   "dependencies": {
     "@google-cloud/translate": "^6.3.1",
     "@google-cloud/vision": "^2.4.2",
