@@ -13,4 +13,4 @@ Link git Frontend: https://github.com/FloreaLaura/ProiectCloud-Front.git
 
 In partea din stanga a ecranului se poate adauga un text, apoi se alege butonul corespunzator limbii in care doresti sa traduci textul si aceasta o sa fie tradus. Dupa un refresh al paginii in lista din dreapta va aparea istoricul textelor traduse si traducerea lor in limba aleasa. 
 
-Am adaugat in repository si un document word : Documentatie.docx pentru a putea atasa si cateva capturi de ecran.
+Am adaugat in repository si un document word : Documentatie.docx pentru a putea detalia și atașa cateva capturi de ecran
